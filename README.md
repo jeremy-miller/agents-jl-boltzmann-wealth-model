@@ -13,4 +13,4 @@ example.
 ## Run
 
 1. Activate Julia environment: `julia --project=.`
-2. Run: `julia src/sugarscape.jl`
+2. Run: `julia src/boltzmann_wealth.jl`
